@@ -9,7 +9,7 @@
   
   inputs.src-paramidi-0_6_0.flake = false;
   inputs.src-paramidi-0_6_0.owner = "paranim";
-  inputs.src-paramidi-0_6_0.ref   = "refs/tags/0.6.0";
+  inputs.src-paramidi-0_6_0.ref   = "0_6_0";
   inputs.src-paramidi-0_6_0.repo  = "paramidi";
   inputs.src-paramidi-0_6_0.type  = "github";
   
