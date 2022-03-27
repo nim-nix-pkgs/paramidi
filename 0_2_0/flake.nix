@@ -11,6 +11,7 @@
   inputs.src-paramidi-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-paramidi-0_2_0.owner = "paranim";
   inputs.src-paramidi-0_2_0.repo  = "paramidi";
+  inputs.src-paramidi-0_2_0.dir   = "";
   inputs.src-paramidi-0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
