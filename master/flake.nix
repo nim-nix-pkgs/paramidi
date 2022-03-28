@@ -11,7 +11,6 @@
   inputs.src-paramidi-master.ref   = "refs/heads/master";
   inputs.src-paramidi-master.owner = "paranim";
   inputs.src-paramidi-master.repo  = "paramidi";
-  inputs.src-paramidi-master.dir   = "";
   inputs.src-paramidi-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
